@@ -6,8 +6,6 @@ Python script to interact with file system
 - Create a new /games directory 
 - Copy and remove the "game" suffix of all games into the /games directory
 - Create a .json file with the information about the games
-- Compile all of the game code 
-- Run all of the game code
 
 # Assumptions:
 - data directory contains many files and directories
